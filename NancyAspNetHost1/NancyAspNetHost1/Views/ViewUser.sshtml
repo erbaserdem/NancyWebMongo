@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>NancyAspNetHost1</title>
+
+	<style type="text/css">
+
+		body {
+			text-align: center;
+		}
+
+	</style>
+
+</head>
+<body>
+	<img src="@Path['~/Content/nancy-logo.png']" alt="Nancy logo" /><br />
+
+	Searched User is : 	<br>
+	@Model.Name	<br>
+	@Model.Email	<br>
+	@Model.UserName	<br>
+	@Model.Id <br>
+
+	<form action="~/register" method="get">
+    <input type="submit" value="Register"/>
+	</form>
+
+
+</body>
+</html>

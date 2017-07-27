@@ -1,0 +1,17 @@
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\NancyAspNetHost1.dll.config
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\NancyAspNetHost1.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\NancyAspNetHost1.pdb
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.Hosting.Aspnet.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.xml
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\Nancy.Hosting.Aspnet.xml
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\obj\Debug\NancyAspNetHost1.csprojResolveAssemblyReference.cache
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\obj\Debug\NancyAspNetHost1.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\obj\Debug\NancyAspNetHost1.pdb
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\MongoDB.Bson.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\MongoDB.Driver.Core.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\MongoDB.Driver.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\MongoDB.Bson.xml
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\MongoDB.Driver.xml
+c:\users\eerbas\documents\visual studio 2015\Projects\NancyAspNetHost1\NancyAspNetHost1\bin\MongoDB.Driver.Core.xml

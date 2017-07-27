@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>NancyAspNetHost1</title>
+
+	<style type="text/css">
+
+		body {
+			text-align: center;
+		}
+
+	</style>
+
+</head>
+<body>
+	<img src="@Path['~/Content/nancy-logo.png']" alt="Nancy logo" /><br />
+
+
+	Press this button to add a new record
+	<form action="~/register" method="get">
+    <input type="submit" value="Register"/>
+	</form>
+
+
+</body>
+</html>
